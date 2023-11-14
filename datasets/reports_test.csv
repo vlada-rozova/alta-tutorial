@@ -1,0 +1,1293 @@
+patient_id,report_no,y_report,histopathology_id,val_fold,dataset,order_results,y
+2,1,Positive,214,,test,"""URNO     XXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BRUSHINGS 
+
+
+CLINICAL NOTES: 
+
+LUL lung lesion FI. BG: CLL. 
+
+TESTS REQUESTED: 
+
+Radial EBUS - LUL x1, LUL x2 - brushings + washings - cytology + IHC. 
+
+MACROSCOPIC DESCRIPTION: 
+
+Procedure attended and ROSE performed on specimen 1&2. 
+Bronchoscopy procedure performed by A/Prof XXXXXXXXXXXX 
+
+1. LUL 1 bronchial brushings: 1 wet-fixed and 1 air-dried smears prepared. 
+Also received in saline, brush tip washings processed as a cell block. 
+Adequacy statement: Inadequate diagnostic material. 
+
+2. LUL 2 bronchial brushings: 2 wet-fixed and 2 air-dried smears prepared. 
+Also received in saline, brush tip washings processed as a cell block. 
+Adequacy statement: Inadequate diagnostic material. 
+
+3. Bronchial washings: 30 ml of heavily bloodstained fluid. Cell block submitted for processing. 
+
+MICROSCOPIC DESCRIPTION: 
+
+1. The smears and cellblock section contain few bronchial cells and inflammatory cells. There is little cellular material present 
+
+2. The smears and cell block section contain occasional pulmonary macrophages, few bronchial cells and scattered inflammatory cells including increased eosinophils. There is little cellular material present 
+
+3. The smears contain pulmonary macrophages, bronchial cells and squamous cells, in a background scattered neutrophils, lymphoid cells and eosinophils. Fungal elements are identified on the Grocott stain. No malignant cells are present. 
+
+DIAGNOSIS: 
+
+1. LUL 1 bronchial brushings: Non-diagnostic. 
+
+2. LUL 2 bronchial brushings: Non-diagnostic. 
+
+3. Bronchial washings: Fungal elements. Negative for malignancy. ""
+",1
+23,1,Positive,127,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+
+SPECIMEN 
+1. Right upper lobe anterior segment bronchoalveolar lavage. 
+2. Right upper lobe bronchial washings. 
+
+REQUEST DETAILS 
+No clinical notes. 
+
+MACROSCOPIC DESCRIPTION 
+1. """"Right upper lobe anterior segment lavage"""". 
+10ml cloudy bloodstained fluid. 2 Pap and 2 DQ and 2 Grocott. 
+2. """"Right upper lobe washings"""" 
+15ml cloudy bloodstained fluid. 8 Pap and 4 Grocott. 
+(TON/FL XXXXXXXXX) 
+
+MICROSCOPIC DESCRIPTION 
+1. Heavily blood contaminated specimen, which may render the specimen unsatisfactory for assessment and invalidate the cell count differentials. There is also some material resembling mucus, possibly reflecting bronchial contaminant. There are numerous red blood cells with background macrophages, neutrophils and smaller number of small lymphocytes and bronchial epithelial cells. 
+Differential cell count: macrophages 54%, neutrophils 35%, lymphocytes 6%, bronchial cells 6%. Cells counted = 300. 
+No fungus or Pneumocystis is identified on staining with Grocott methenamine silver. No viral cytopathic changes or malignant cells identified. 
+
+2. There is mucous, bronchial epithelial cells, squamous cells from the upper aerodigestive tract and inflammatory cells. Staining with Grocott methenamine silver shows very occasional branching hyphae suggesting of Aspergillus. No viral cytopathic changes or malignant cells are identified. 
+
+OPINION 
+1. Bronchoalveolar lavage cytology, right upper lobe anterior segment 
+- Heavily blood contaminated specimen and mucus, probably reflecting bronchial contaminant. No malignant cells, viral cytopathic changes, fungus or Pneumocystis identified. See above for differential cell count. 
+
+2. Bronchial washings cytology, right upper lobe 
+- No malignant cells or viral cytopathic changes identified. Very scanty fungal material, suggesting Aspergillus. ""
+",1
+25,1,Positive,833,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  WASHINGS 
+
+
+CLINICAL NOTES: 
+No clinical notes. 
+
+MACROSCOPIC DESCRIPTION: 
+Bronchial washings: 15ml of moderately blood stained slightly mucoid fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain scattered reactive pulmonary macrophages, bronchial cells, squamous cells and neutrophils. Abundant groups of fungal elements with branching, thick-walled hyphae and some budding yeasts are identified. No malignant cells are 
+identified. 
+
+DIAGNOSIS: 
+Bronchial washings: No evidence of malignancy. Fungal elements identified. ""
+",1
+38,1,Positive,194,,test,"""XXXXXXX F XXXXXXXXXX  Report (XXXXXXXX)
+MACROSCOPIC DESCRIPTION:    Biopsy of cyst"""": Three fragments of grey and tan tissue 4 and 5mm in  maximum dimension.  A1.  (EVC)   MICROSCOPIC DESCRIPTION:    The biopsy shows features of an""""        
+organising abscess. There are areas of  necrosis with foamy macrophages, some neutrophils and cellular debris.   Fungal hyphae are found in the necrotic areas, consistent with  aspergillus.        
+Multinucleated giant cells are present, one containing  fungal elements in the cytoplasm. No granulomas are noted.  No viral  inclusions are seen.  There are no toxoplasma cysts. No tumour is        
+identified. The Grocott stain highlights the fungi. The Gram and  Giemsa stains show no bacteria and toxoplasma respectively. The CMV,  HSV and polyoma virus immunostains are negative.   DIAGNOSIS:        
+Right frontal lesion: Fungal abscess. No evidence of malignancy.""
+",1
+48,1,Positive,649,,test,"""XXXXXXX 
+M
+XXXXXXXXX
+ 
+Report (XXXXXXXX)
+CLINICAL NOTES:   AML R bronchial thickening on CT - ?malignancy ?fungal   MACROSCOPIC DESCRIPTION:   1.  RUL Bx"""": Two soft irregular pieces of tissue 9mm and 7mm.  A1.  2.  """"RUL cryo Bx"""": Three""""
+soft white and pink irregularly shaped pieces  of tissue, the largest 27x10x3mm and the smallest 5mm.  A1.  (XXX)   MICROSCOPIC DESCRIPTION:   1&2.  Both specimens show similar features.  There are
+sheets of  necrotic debris and acute inflammatory exudate containing multiple  fungal organisms.  The fungi are branching septae hyphae, consistent  with Aspergillus.  There is some respiratory
+mucosa, with ulceration,  but no definite tissue invasion.   There is no evidence of malignancy on immunohistochemistry for CD45  and myeloperoxidase.   DIAGNOSIS:   1&2.  Right upper lobe biopsy and
+right upper lobe cryo biopsy:  Aspergillus with necrosis and ulceration, but no definite tissue  invasion. Clinical correlation is required.   
+""
+",1
+80,1,Positive,267,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BRONCHIAL WASHING 
+
+
+CLINICAL NOTES: 
+2 nodular lung lesions not responding to Abx. ? Invasive fungal ix. AML. 
+
+MACROSCOPIC DESCRIPTION: 
+Bronchial washings: 10 ml of lightly blood stained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain pulmonary macrophages, bronchial cells, squamous cells and inflammatory cells. The Grocott stain demonstrates rare fungal spores only. No malignant cells are identified. 
+
+DIAGNOSIS: 
+Bronchial washings: No evidence of malignancy. ""
+",1
+80,2,Negative,573,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+
+CLINICAL NOTES: 
+AML - Total WCC 0.2 
+Progressive pulm infiltrates. 
+
+MACROSCOPIC DESCRIPTION: 
+LLL bronchoalveolar lavage: 10 ml of clear and colourless fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain abundant pigmented alveolar macrophages and scant lymphoid cells. There is no evidence of Pneumocystis jiroveci or fungal elements. 
+No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          93       (83-94%) 
+Lymphocytes                  7       (5-16%) 
+Neutrophils                 0        (1-6%) 
+Eosinophils                  0        (0-1%) 
+Bronchial cells                0        (0-5%) 
+
+DIAGNOSIS: 
+LLL bronchoalveolar lavage: Normal cell count. 
+
+
+SUPPLEMENTARY REPORT - Dr XXXXXXXXXXXXXXXX - XXXXXXXXX: 
+There is moderate haemosideran deposition suggesting some degree of pulmonary haemorrhage""
+",0
+149,1,Positive,643,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+Works in XXXXXXX. L maxillary sinusitis ?fungal, AML (new Dx). Chronic neutropenia. 
+Slip 2. Immunosuppressed due to AML - fungal sinusitis left maxillary sinus 
+
+MACROSCOPIC DESCRIPTION: 
+Unlabelled as to site: A single brown tissue fragment 5mm. 1A1. (XXX) 
+ 
+MICROSCOPIC DESCRIPTION: 
+Sections show a fungal ball comprising a compact arrangement of thick walled branching hyphae. Sinonasal mucosa is not present and angioinvasion of fungi is not seen. There is no evidence of malignancy. 
+
+DIAGNOSIS: 
+Left maxillary tissue: Mycetoma. 
+
+
+REPORTED BY: Dr XXXXXXXXXX (XXXXXXXXX Fellow) 
+XXXXXXXX 
+
+SUPPLEMENTARY REPORT: 
+As requested by the XXXXXXXXXXX resident, the morphology of the fungi was further assessed. While assessment is difficult due extensive degenerative changes, the features are most in keeping with Aspergillus, however correlation with microbiology and 
+fungal PCR is recommended. ""
+",1
+149,2,Negative,100,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+Rectum biopsy for histo. Sigmoid & rectum for ?CMV 
+CMV IHC 
+
+MACROSCOPIC DESCRIPTION: 
+1. """"Sigmoid biopsy"""": Two 3mm tan fragments 1.1 is 2 in 1 all in. 
+
+2. """"Rectal biopsy"""": Four 2mm tan fragments 2.1 is 4 in 1 all in. (XX) 
+MICROSCOPIC DESCRIPTION: 
+1 & 2. The biopsies of large bowel mucosa with muscularis mucosae show intact, normal architecture and normal epithelium. The lamina propria contains a normal complement of inflammatory cells. The subepithelial collagen plate is of normal thickness and 
+there is no increase in intraepithelial inflammatory cells. Granulomas and viral cytopathic effect are not seen. There is no acute inflammation or dysplasia. 
+
+CMV immunohistochemistry is negative. 
+
+DIAGNOSIS: 
+1 & 2. Sigmoid and rectal biopsies: Normal large bowel mucosa. ""
+",0
+160,1,Positive,269,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+Hx of AML. LLL rhizopus collection.  
+
+MACROSCOPIC DESCRIPTION: 
+
+1. """"Left lower lobe"""": A lower lobe measuring 190mm superior to inferior, 100mm anterior to posterior and 110mm medial to lateral. The hilar margin measures 60mm superior to inferior by 40mm anterior to posterior. There is a linear surgical incision 
+anterior to the hilar margin measuring 75mm running from superior to inferior. Surgical staple lines within the hilum are removed with a maximum thickness of 4mm and the new hilar margin is inked blue. The linear surgical incision anterior to the hilum 
+is inked black. Two lymph nodes are identified within the hilum ranging in size between 20mm and 7mm. Lung is serially sectioned from superior to inferior and photographed. On slicing, there is a necrotic partially solid area measuring 28x20x25mm.  
+This is identified adjacent to the linear surgical incision slightly anterior to bronchial surgical margin. The distance between this area and the hilar margin is 15mm. No other mass lesion is identified.  
+
+BLOCK DESIGNATION:  
+
+1.1 - x2 shaves of vascular margin.  
+1.2 - x1 shave of bronchial surgical margin.  
+1.3 - x6 larger hilar lymph node. TS all in.  
+1.4 - x2 smaller hilar lymph node bisected. All in.  
+1.5-1.6 - x1 composite block slice 7 area of necrosis including nearest hilar and linear surgical 
+        incision. 
+1.7-1.10 - x1 composite block slice 8 area of necrosis including nearest hilar margin and surgical 
+        incision.  
+1.11-1.14 - x1 slice 9 composite block showing area of necrosis including nearest hilar margin and 
+        surgical incision. Representative sections.  
+
+2. """"Hilar node"""": Portions of lymph node ranging in size between 15mm and 7mm. Larger portion bisected. 2.1 - x3 all in.  
+
+3. """"Hilar ST 10"""": A fragment of lymph node 7x6x5mm. 3.1 x2 bisected. All in.  
+
+4. """"Interlobar node"""": Fragments of lymph node ranging in size between 18mm and 5mm. Larger lymph node bisected. 4.1 x4. All in. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+
+1. Sections from microscopic identified solid lesion show an area of coagulative and liquefactive necrosis with scattered multinucleate giant cells. The necrotic area has an irregular border which focally appears to include the wall of the large 
+bronchus. Numerous large vessels are also over run by a similar process. Both vessels and necrotic lung parenchyma are infiltrated by non-septate fungal hyphae with right angle branching, consistent with murcomycosis. Lung parenchyma away from the 
+lesion is unremarkable. One 1 hilar lymph node shows features similar to specimens 2 and 
+
+2-4. Sections show lymph nodes extensively replaced by sheets of medium-sized cells with oval to folded nuclei, fine chromatin, nucleoli and granular eosinophilic cytoplasm. There appeared to be immature eosinophilic forms. By immunohistochemistry the 
+atypical cells show moderate expression of myeloperoxidase and CD43, weak expression of CD 68, and are negative for CD3, CD20. 
+
+
+DIAGNOSIS: 
+
+1. Left lower lobe: Invasive mucormycosis. One hilar lymph node with myeloid sarcoma (extramedullary myeloid leukaemia). 
+
+2-4. Hilar node, hilar station 10 and interlobar node: Three lymph nodes with myeloid sarcoma (extramedullary myeloid leukaemia).. 
+
+
+
+REPORTED BY: Dr XXXXXXXXXXXXXXXX. ""
+",1
+160,2,Negative,867,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+XXM D8 post induction chemo for transformed AML with new onset rash for 2/7 ?drug eruption 
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Left anterior thigh punch biopsy"""": A punch biopsy of skin 3x3x4mm. All in 1.1. A1. (EC) 
+
+MICROSCOPIC DESCRIPTION: 
+
+Sections show punch biopsies of skin to subcutis displaying a eosinophilic spongiosis, with apoptotic keratinocytes and a few intraepidermal eosinophils. There is also mild basal vacuolar change. There are many perivascular and interstitial eosinophils 
+and a few lymphocytes within the superficial dermis. No fungal organisms are seen on PAS stain. 
+
+DIAGNOSIS: 
+
+Left anterior thigh skin punch biopsy: Mixed spongiotic and interface reaction with eosinophilia, in keeping with a drug reaction. ""
+",0
+16,1,Negative,532,,test,"""XXXXXX XXXXXXXXX F XXXXXXXXXX  Report (XXXXXXXX)
+CLINICAL NOTES:   Odynophagia/dysphagia. Oesoph 25-35cm scarred, friable, ulcerated.   MACROSCOPIC DESCRIPTION:   1.  30cm Bx"""":  Two mucosal fragments each 3-5mm.  A1.    2.  """"Gastric Bx"""":  Two""""        
+mucosal fragments each 2-4mm.  A1.    3.  Duodenum Bx"""":  Three mucosal fragments each 2-4mm.  A1.  (MM)   MICROSCOPIC DESCRIPTION:   1.  Sections show ulcerated squamous mucosa with underlying""""        
+lamina  propria.  The squamous epithelium demonstrates marked hyperplasia, moderate spongiosis and scattered intraepithelial inflammatory cells. The lamina propria contains a moderately dense mixed        
+acute and chronic inflammatory cell infiltrate.  No fungi or viral inclusions are seen. There is no evidence of dysplasia or malignancy.  Immunostains for HSV1&2 are negative.  The Gram stain shows        
+gram  positive cocci and bacilli.  The Grocott stain shows fungal yeasts.  2.  Sections show gastric antral type mucosa and body type mucosa. The foveolar and glandular architecture appears well        
+maintained.   There are no increased intraepithelial inflammatory cells.  No  Helicobacter are identified.  The lamina propria contains scant  chronic inflammatory cells.  No acute or granulomatous        
+inflammation is seen.  There is no evidence of intestinal metaplasia, dysplasia or  malignancy.   3.  Sections show duodenal mucosa including muscularis mucosae and  Brunner's glands.  The villous        
+and gland architecture appears well  maintained.  There are no increased intraepithelial lymphocytes.  The  lamina propria contains a normal complement of chronic inflammatory  cells.  No acute or        
+granulomatous inflammation is seen.  There is no  evidence of dysplasia or malignancy.   DIAGNOSIS:   1.  Oesophagus, 30cm biopsy:  Ulcerated squamous mucosa; bacteria and        
+fungi identified.  2.  Stomach, biopsy:  No diagnostic abnormality recognised.    3.  Duodenum, biopsy:  No diagnostic abnormality recognised.   SUPPLEMENTARY REPORT: Dr XXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXX   Specimen 1: CMV immunostain result = NEGATIVE.""
+",0
+107,1,Negative,352,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  WASHINGS 
+
+
+CLINICAL NOTES: 
+
+XXXX female. Febrile post BMT for T-PLL. Bilateral pulmonary infiltrates. FI 
+
+ANATOMICAL PATHOLOGY TESTS REQUESTED: 
+
+Cytology. Differential cell count. 
+
+MACROSCOPIC DESCRIPTION: 
+
+1. Bronchial washings: 8mL ml of heavily blood stained mucoid fluid. 
+
+2. Right upper lobe bronchoalveolar lavage: 5 ml of lightly bloodstained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+
+1. The smears contain scattered pigmented pulmonary macrophages, bronchial cells, squamous cells and inflammatory cells. Grocott stain shows a few fungal spores. Perl's stain shows scattered haemosiderin-laden macrophages. No malignant cells are 
+identified. 
+
+2. The smears contain scattered pigmented alveolar macrophages, few lymphoid cells and occasional neutrophils, in a background of blood. Grocott stain is negative for fungal elements. Perl's stain shows moderate numbers of haemosiderin-laden macrophages. 
+No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          92       (83-94%) 
+Lymphocytes                5        (5-16%) 
+Neutrophils                 3        (1-6%) 
+Eosinophils                  0        (0-1%) 
+Bronchial cells                0        (0-5%) 
+
+DIAGNOSIS: 
+
+1. Bronchial washings: Fungal spores and haemosiderin macrophages identified; no evidence of malignancy. 
+
+2. Right upper lobe bronchoalveolar lavage: Haemosiderin macrophages identified; normal cell count. ""
+",0
+6,1,Negative,350,,test,"""URNO     XXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+XXF with new diagnosis of follicular lymphoma. Some L inguinal pain with increased FDG uptake LN ?transformed disease. Intractable left groin pain with PET suggestive of ?transformed disease. Repeat BX ?transformed disease. Histopathology, flow cytometry, lymphoid NGS, FISH (MYC/BCCE). 
+ 
+MACROSCOPIC DESCRIPTION 
+1. """"L inguinal LN Bx"""". Two tan cores 13 and 14mm in length. A1. 
+2. """"L inguinal LN Bx"""". Specimen received fresh, portion of core and two fragments sent to Molecular. Remaining core placed in formalin at 12 o'clock on XXXXXXXXX by XX/XX. One tan core 10mm in length. A1. (cs:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1 & 2. Sections show cores of lymph node tissue. There are confluent aggregated sheets comprising large cells with irregular nuclear outlines, variably prominent peripherally located nucleoli and surrounding clear cytoplasm, resembling sheets of centroblasts. Focal apoptotic bodies are seen. There is a minor follicular nodular growth seen in the background. On immunostains, there is confluent staining for CD20 and the neoplastic lymphoid cells co-express BCL2, BCL6, CD10 and are negative for CD3, CD5, CD23, Cyclin D1, MUM1 (staining in 5-10% of cells) and Tdt. There is attenuated/absent staining for CD21 within the area of sheet like growth and only focal meshwork staining corresponding to the focal nodular areas. Other follicular dendritic meshwork markers (CD23, CD35) are negative. Immunohistochemistry for CMYC is negative (20%). EBER-ISH is negative. The features are of diffuse large B cell lymphoma, GCB, ki67 proliferative index 50-60% constituting 80% of the tissue core. There is a minor 20% follicular lymphoma, Grades 3, follicular pattern in the background. 
+
+
+DIAGNOSIS 
+1-2. Core biopsy left inguinal lymph node 
+-diffuse large B cell lymphoma, GCB, co-expressor status negative 
+-minor follicular lymphoma, follicular pattern in the background.""
+",0
+12,1,Negative,858,,test,"""URNO     XXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Biopsy right + left cheek. Clinically BCC. 
+
+MACROSCOPIC DESCRIPTION 
+1. """"Right cheek"""". An irregular punch biopsy 7x4x3mm with a tan roughened surface. Margins inked. Bisected. A1. 
+2. """"Left cheek"""". An irregular punch biopsy 7x4x3mm with a tan crusted surface. Margins inked. Bisected. A1. (dl/ss) 
+
+MICROSCOPIC DESCRIPTION 
+1. This skin punch shows basal cell carcinoma extending the full depth of the specimen and involving the radial edges. The pattern is consistent with nodular type. No direct origin from the overlying epidermis is seen. 
+2. This skin punch shows basal cell carcinoma, likely nodular type, originating from the epidermis and extending the full depth of the specimen and involving the radial edges. 
+
+DIAGNOSIS 
+1. Skin punch biopsy right cheek: Basal cell carcinoma, likely nodular type. 
+2. Skin punch biopsy left cheek: Basal cell carcinoma, likely nodular type.""
+",0
+26,1,Negative,765,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+
+CLINICAL NOTES: 
+No clinical notes. 
+
+MACROSCOPIC DESCRIPTION: 
+Bronchoalveolar lavage: 1 ml of lightly blood stained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain scant alveolar macrophages, increased in neutrophils and few lymphoid cells. There is no evidence of Pneumocystis jiroveci or fungal elements. No malignant cells are identified. Grocott stain is negative. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          38       (83-94%) 
+Lymphocytes                3        (5-16%) 
+Neutrophils                 59        (1-6%) 
+Eosinophils                  0        (0-1%) 
+Bronchial cells                0        (0-5%) 
+
+DIAGNOSIS: 
+Bronchioalveolar lavage: Acute inflammation. ""
+",0
+26,2,Negative,818,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+CLINICAL NOTES: 
+BMTx. GVHD. ? OP XXXXXXX. Increasing breathlessness & persistent infiltrates. 
+
+
+MACROSCOPIC DESCRIPTION: 
+Lingular lavage: 15ml of moderately blood stained fluid. 
+
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain abundant alveolar macrophages, scant reactive pneumocytes, scant lymphoid cells, increased neutrophils and blood. Neither Pneumocystis jiroveci nor fungal elements are demonstrated in the Grocott stain. No malignant cells are 
+identified. 
+
+DIFFERENTIAL CELL COUNT     %   REFERENCE RANGE 
+Alveolar macrophages         58        (83-94%) 
+Lymphocytes               8        (5-16%) 
+Neutrophils                33        (1-6%) 
+Eosinophils                 1        (0-1%) 
+Bronchial cells               0       (0-5%) 
+
+NOTE: This cell count may not be valid due to increased numbers of red blood cells - this may indicate peripheral blood contamination. 
+
+DIAGNOSIS: 
+Lingular lavage: Neutrophilia. ""
+",0
+43,1,Negative,370,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Hx CLL on Ibrutinib. PHx Richter's. New large L neck node - CLL vs Richter's vs other. ?Richter's transformation whilst on Ibrurinib Hx CLL. USS guided core Bx L neck nodes (3 cores minimum pls). Histo + Myc FISH. Flow cytometry (fresh specs). Lymphoid NGS (fresh specs). 
+
+MACROSCOPIC DESCRIPTION 
+1. """"Lt neck Bx"""". One tan core, 13mm in length. A1. 
+2. """"Lt neck Bx"""". Specimen received fresh. Formalin added by XX on XXXXXXX. Multiple tan fragments < 1mm. A1. 
+3. """"Left neck biopsy"""". Specimen received fresh. Formalin added by XX on XXXXXXX. One tan core, 13mm in length and one fragment < 2mm. A1. (mal/kr) 
+
+MICROSCOPIC DESCRIPTION 
+1-3. Sections show similar features and are described together. They show lymph node core biopsies with effacement of the normal architecture by sheets of atypical large lymphoid cells. There is marked nuclear atypia, single to multiple prominent nucleoli, and frequent atypical mitoses. The sheets of large atypical lymphocytes cells are positive for CD20, PAX5 and show co-expression for BCL2, BCL6 (weak, 40% of cells), MUM1 (strong, 90% of cells) and are negative for CD10. C-myc is interpreted as being positive (weak to moderate, 70-80% of cells). The large atypical lymphocytes are positive for Cyclin D1, P53(strong diffuse 100% of cells), LEF1, CD5 (weak) and negative for Sox11. The ki67 is 90-100%. EBER-ISH is negative. 
+
+Very focally at the edge of the large B cell component is an area composed of relatively monotonous population of small lymphocytes and possibly resembling a proliferation center. This population of small B lymphocytes are positive for CD20, CD5 (strong), LEF1, Cyclin D1 (patchy) and negative for CD3, Sox11. 
+
+The features are of diffuse large B cell lymphoma, Non GC/ABC phenotype, co-expressor status positive. There is aberrant expression of Cyclin D1 and Sox11 is negative. There is a focal background component with immunophenotype resembling CLL/SLL. The features are consistent with Richter's transformation of CLL/SLL.  
+
+FISH for C-MYC, CCND1 t(11;14) are both currently pending. 
+
+
+DIAGNOSIS 
+1-3. Left neck biopsy 
+- Diffuse large B cell lymphoma, Non GC/ABC phenotype, co-expressor status positive (IHC positive for C-MYC, BCL2). There is aberrant expression of Cyclin D1 and Sox11 is negative. There is a focal background component with immunophenotype resembling CLL/SLL. The features are consistent with Richter's transformation of CLL/SLL.  
+
+
+Supplementary report 
+Additional FISH testing has identified the presence of CCND1/IGH fusion signals (2-3 signals) in each of the tumour cells (please see scanned complete report from XXXXXXXXXXXXXXXXXXXXX XXX#XXXXXXX).""
+",0
+57,1,Negative,171,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+SPECIMEN 
+Bronchial Specimens 
+
+REQUEST DETAILS 
+New lung infiltrate post chemo tx 
+? infection PJP, CMV etc 
+? inflammation. 
+
+MACROSCOPIC DESCRIPTION 
+1.""""Bronchial washings, XXXXXXX, 17:00"""" 10ml of a clear and mucoid fluid. 
+4 Pap and 2 Grocott. 
+2.""""Bronchial lavage, XXXXXXX, 17:00"""" 8ml of clear and colourless fluid. 2 Pap, 2 DQ and 2 Grocott. 
+3.""""Left upper lobe, XXXXXXX,16:50"""". 3ml clear colourless fluid. 2 Pap, 2 DQ, 2 Grocott. 
+4.""""Lingula, XXXXXXX, 16:55"""". 3ml clear and colourless fluid. 2 Pap, 2 DQ and 2 Grocott. 
+(XX XXXXXXXX) 
+
+MICROSCOPIC DESCRIPTION 
+1. The slides show abundant degenerated cellular material, some of its parakeratotic/squamous metaplasia and some of it bronchial cells. There are pulmonary macrophages and some lymphocytes and neutrophils in the background. Viral cytopathic changes are not seen. Fungi/Pneumocystis are not seen on GMS stain. There is no evidence of malignancy. 
+2-4. These are similar. The slides show pulmonary macrophages, bronchial cells, squames, lymphocytes and neutrophils.. The number of squames and bronchial cells is too high for an accurate cell count as it shows significant proximal airway contamination. Viral cytopathic changes are not seen. Fungi/Pneumocystis are not seen on GMS stain. There is no evidence of malignancy. 
+
+OPINION 
+1. Bronchial washings - Reactive epithelial changes and mild non-specific inflammation. Negative for organisms, negative for malignancy. 
+2-4. Bronchial lavage, Left upper lobe, Lingula - Inadequate due to proximal airway contamination. ""
+",0
+59,1,Negative,777,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Sezary syndrome - on IFN / rorinostat ?CD25 / 30. ?eligibility for E7777. R chest H+E. L chest CD25+30. 
+
+MACROSCOPIC DESCRIPTION 
+1. """"R chest"""". A punch biopsy 4x3x3mm. A1. 
+2. """"L chest"""". A punch biopsy 4x4x4mm. A1. (mk/kr) 
+
+MICROSCOPIC DESCRIPTION 
+1&2. The sections show sun-damaged skin with dermis. There is some fibrosis and small numbers of perivascular lymphocytes in superficial dermis. The lymphocytes lack atypia. Further assays such as immunohistochemistry have not been performed as they would not be diagnostic for lymphoma due to the very low lymphocyte cell count. 
+
+DIAGNOSIS 
+1. R chest - Minor non-specific changes only. 
+2. L chest - Minor non-specific changes only. ""
+",0
+63,1,Negative,181,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+LT groin LNS PTCL histopathology, flow cytometry. 
+
+MACROSCOPIC DESCRIPTION 
+""""Left groin lymph node"""". Specimen is received fresh and small portions of lymph nodes are submitted fresh to flow cytometry and molecular by XX/XX on XXXXXXXXX. Three lymph nodes 12-25mm with diffuse adherent fibrofatty tissue up to 20mm. The largest node has a tan-white softened cut surface (possible necrosis). The remaining two lymph nodes are focally tan and firm; distinct positive areas not identified. 1.1 and 1.2: One lymph node TSx4. 1.3 and 1.4: One node, TSx5. 1.5-1.8: One node, TSx8. P8 (nodes entirely submitted). (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+The largest node described macroscopically is necrotic. The smaller nodes, particularly in blocks 1.3 and 1.4, are well preserved and orientated. There is effaced architecture, increased vascularity and a relatively monomorphous population of mildly enlarged and atypical cells with cleaved nuclei. There is no nodularity and no evidence of a confluent large cell population. Immunoperoxidase staining shows very small numbers of single B-cells. The atypical small cell population stain with CD2, CD3, CD5 and BF-1. CD7 stains the majority of these cells but there is a minor component showing loss of expression. CD8 is negative and CD4 appears to stain background macrophages only. Atypical lymphocytes are negative. CD10, TdT, BCL6 and CD30 are also negative. The Ki-67 proliferative index is approximately 50%. EBER-ISH identifies scattered single positive cells. 
+This represents a diffuse, atypical, aberrant T-cell proliferation. The past history is noted. The features are interpreted as recurrent peripheral T-cell lymphoma, NOS. 
+
+DIAGNOSIS 
+Left groin lymph node - Recurrent peripheral T-cell lymphoma, CD4 / CD8 double negative.""
+",0
+77,1,Negative,723,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Cutaneous angioimmunoblastic lymphoma Dx XXXX. On Romidepsin, now violaceous indurated rash ?lymphoma ?drug ?other. 
+
+MACROSCOPIC DESCRIPTION 
+1. """"L deltoid"""". A punch biopsy 3x3x5mm. A1. 
+2. """"L post thigh"""". A punch biopsy 3x3x4mm. A1. 
+3. """"R post thigh"""". A punch biopsy 3x3x5mm. A1. (cs/kr) 
+
+MICROSCOPIC DESCRIPTION 
+1. Sections of the punch biopsy of skin show a moderately dense perivascular and interstitial infiltrate, extending through superficial and deep dermis and into superficial subcutis. The infiltrate is composed predominantly of lymphocytes, ranging from small to large in size, but predominantly small to medium sized, with admixed histiocytes, some epithelioid in appearance, and plasma cells. The infiltrate shows some epidermotropism, with lymphocytes present singly and in small clusters, predominantly along the basal layer of the epidermis, with associated mild spongiosis. There is also mild hyperplasia and hyperkeratosis, and occasional apoptotic keratinocytes are seen. Immunohistochemical stains show a predominance of CD3-positive T-cells, with some loss of expression of CD7, but normal expression of CD2 and CD5. The majority are CD4-positive, with CD8 staining only occasional small lymphocytes. BetaF1 stains only rare T-cells, but PD-1 is positive in a significant population. Immunostains for kappa and lambda light chains show probably lambda light chain restriction. In-situ hybridization for Epstein-Barr virus (EBER) shows positive staining in a subpopulation of cells present. 
+
+The appearances are of a T-cell rich infiltrate, without definite cytological atypia or immunophenotypic aberrancy, but, in the context of the previous history, are suspicious for cutaneous involvement by angioimmunoblastic T-cell lymphoma. The presence of a B-cell/plasmacytic infiltrate with probable lambda light chain restriction, presumably represents an associated B-cell proliferation, possibly EBV-related. IgH and TCR gene rearrangement studies will be performed, and a separate report issued, and the sections reviewed with Dr XXXXXXX. 
+ 
+2&3. Sections of the punch biopsies of skin show a moderately dense interstitial and perivascular infiltrate within upper dermis, with perivascular and periadnexal extension through dermis and into subcutaneous fat. The infiltrate is again composed predominantly of lymphocytes, predominantly small to intermediate is size. There is more pronounced epidermotropism, and there is some thickening of collagen bundles within upper dermis. Epithelioid histiocytes are not prominent, but there are plasma cells and occasional eosinophils in the dermal infiltrate. Immunohistochemical stains show a CD3-positive, T-cell-predominant infiltrate, with only rare CD20-positive B-cells. There is loss of expression of CD7, but retained expression of CD2 and CD5. The majority of cells in the dermis are CD4-positive and CD8-negative, but the epidermotropic component of the infiltrate shows a predominance of CD8-positive cells, with smaller numbers of CD4-positive cells. 
+
+The appearances are of a T-cell rich infiltrate, with some similarity to that seen in specimen 1, but with an additional CD8-positive epidermotropic component. The differential diagnosis includes cutaneous involvement by angioimmunoblastic T-cell lymphoma, as well as other forms of T-cell lymphoma or a drug reaction. TCR gene rearrangement studies will be performed, and a separate report issued, and the sections reviewed with Dr XXXXXXX. 
+
+DIAGNOSIS 
+1. Skin from left deltoid, punch biopsy - T-cell rich infiltrate, in context suspicious for cutaneous involvement by angioimmunoblastic T-cell lymphoma, with an associated lambda-predominant B-cell/plasmacytic infiltrate; supplementary report to follow. 
+2&3. Skin from left and right posterior thigh, punch biopsies - T-cell rich infiltrate, with differential diagnosis including cutaneous involvement by T-cell lymphoma and a drug reaction; supplementary report to follow. ""
+",0
+82,1,Negative,755,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+LUL lesion F/X. CT-guided left upper lung BX. Histopathology. MC&S. TB PCR + culture. Fungal culture + PCR. 
+ 
+MACROSCOPIC DESCRIPTION 
+""""CT-guided left upper lobe lung core biopsy"""". Please note that the specimen was received in formalin. No tissue sent to micro or for TB PCR as of yet, as per XX on XXXXXXXXX. Two wispy haemorrhagic cores 2 and 5mm. A2. (cs:oze) 
+
+MICROSCOPIC DESCRIPTION 
+Sections show minute fragments of lung parenchyma. The alveolar architecture is within normal limits. There is no interstitial or intra-alveolar inflammation or exudate and no evidence of neoplasia. PAS, Grocott and Ziehl-Neelsen stains show no fungal organisms or acid-fast bacilli. Tissue scrolls for TB and fungal PCR were attempted but there is insufficient tissue. 
+
+DIAGNOSIS 
+Core biopsies left upper lobe - No significant pathological features.""
+",0
+94,1,Negative,374,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Triple-hit refractory DLBCL - needs LN BX to guide CTX. Histopathology + Flow Cytometry - Immunohistochemistry. 
+ 
+MACROSCOPIC DESCRIPTION 
+""""R mesorectal mass"""". Specimen received fresh and placed in formalin by XX/XX on XXXXXXX. Two tan cores 5 and 7mm and five fragments <2mm. A2. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+Sections show cores of lymphoid tissue containing extensive viable tumour. The tumour cells are medium to large, with high N:C ratio, inconspicuous nucleoli and show blastoid features. There are numerous mitotic and apoptotic figures, including a starry sky appearance. On immunostains, the tumour cells are strong and diffusely positive for CD19, BCL2, CD10, BCL6. A large proportion of the tumour cells are positive for CD20, although CD20 is patchy. The tumour cells show moderate intensity diffuse staining for MYCin 80-90% of tumour cells. The tumour cells are negative for CD3, CD5, MUM1 and Tdt. No follicular dendritic meshworks are present on CD21. The ki67 index approaches 100%. 
+
+The features are similar to those described in the previous biopsies (XXXXXXXXand XXXXXXXX) 
+MYC, BCL2 and BCL6 rearrangements have been reported externally. Morphology is consistent with a high grade B cell lymphoma (triple hit lymphoma), co-expressor status positive. 
+
+DIAGNOSIS 
+Biopsy right mesorectal mass 
+- High grade B cell lymphoma (triple hit lymphoma), co-expressor status positive ""
+",0
+96,1,Negative,316,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Sclerotic bone lesion. 
+
+MACROSCOPIC DESCRIPTION 
+""""R ilium bone BX"""". A fragmented bone core biopsy in four pieces 2-5mm and two smaller fragments <2mm. The specimen is fixed in formalin for 24 hours then placed in Osteosoft for decalcification for 24 hours. A1. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+The sections of the core biopsy show trabecular bone in which there is extensive effacement of marrow by a poorly differentiated carcinoma. The tumour is characterised by rare small nests and infiltrating single cells which possess moderately pleomorphic nuclei without prominent nucleoli that are surrounded by eosinophilic to amphophilic cytoplasm. The tumour shows strong diffuse reactivity with AE1/AE3 and PAX8. Vimentin shows patchy reactivity. CD10 shows focal reactivity only and is not contributory. Prostate markers PSA, PSAP, ERG, NKX3-1 are all negative. CK7, CK20, CDX2, TTF-1, p40, GATA3, SOX10 and RCC are also negative. 
+
+DIAGNOSIS 
+Right ileum bone, core biopsy: 
+- Metastatic poorly differentiated carcinoma; see comment. 
+
+Comment: With the clinical history of renal lesions on ultrasound, the immunophenotype, whilst not specific, does not exclude a primary renal lesion. Prostate origin is considered less likely but clinical and radiological correlation is required. ""
+",0
+97,1,Negative,680,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Core BX L retroperitoneal mass trial sample at least 13 slides of 4 microns each. Post experimental therapy to assess (illegible) infiltrate/(illegible) (illegible) CT-guided retroperitoneal mass biopsy. 
+
+Email from XXXXXXXXXXX """" we do not need a full diagnostic work up but having a report confirming the presence or absence of the patient's known lymphoma would be helpful"""". 
+
+MACROSCOPIC DESCRIPTION 
+""""L retroperitoneal node mass"""". Five tan cores 3, 3, 3, 15 and 19mm and four fragments <1mm each. A3. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+Section show slender cores of atypical lymphoid cells invading skeletal muscle and fibrotic stroma. There is extensive necrosis. The lymphocytes are CD20/BCL2-expressing B-cells by immunohistochemistry and show 2 distinct morphologies. About 50% are have large angular nuclei with some nucleolar prominence, express PAX5, CD10 (weak) and BCL6, are negative for CD5, and have a Ki67 index of about 30%. The remainder are degenerate with small nuclei that are negative for PAX5, CD10, CD5 and BCL6, and have a Ki67 index of 15-20%. There is a very limited number of mature T-cells expressing CD3 and CD5 at the periphery of the B-cell sheets and scattered within the sheets. 
+
+DIAGNOSIS 
+L retroperitoneal node mass - large B-cell lymphoma and changes consistent with a treatment effect. Minimal T-cell infiltration. ""
+",0
+98,1,Negative,835,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+?NHL R axillary LN. Histopathology of lymph node R axillary LN - fresh flow - formalin histo. 
+ 
+MACROSCOPIC DESCRIPTION 
+1. """"R axillary LN"""". One tan core 12mm and four fragments 1-3mm. A1. 
+2. """"R axillary LN"""". Specimen received fresh and a portion of one core is submitted fresh for flow cytometry by XX/XX on XXXXXX. A core biopsy 6mm. A1. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1,2. Sections show effacement of nodal architecture by a population of small atypical lymphocytes with a follicular architecture. The neoplastic follicles are mostly uniform in size, composed atypical lymphoid cells comprising an irregular admixture of mostly small cleaved centrocytes and to a lesser extent centroblasts. The follicular proportion of the biopsy is >75% with only rare centroblasts detected in the interfollicular zone. Neoplastic follicles contain up to 4 centroblasts per high power field. No blastoid features are seen and there is no evidence of high grade transformation. 
+
+Immunohistochemistry with CD20 and PAX5 shows an abnormal immunoarchitecture. CD20 and PAX5 show neoplastic follicles composed of malignant B cells with co-expression of Bcl-6, CD10 and Bcl-2 (SP66) with extension into the interfollicular zone. CD21 and CD23 demonstrate attenuation and disruption of the follicular dendritic network within neoplastic follicles. There is no CD5 co-expression and moderate numbers of reactive CD3/CD5 + T cells are observed within the interfollicular zones. Cyclin D1 and CD138 are negative. Kappa and lambda confirm a monotypic B cell population with lambda light chain restriction. The Ki-67 mitotic index in neoplastic follicles is estimated to be 10-20%. 
+
+The concurrent flow cytometry demonstrates a clonal B-cell population with lambda light chain restriction and an immunophenotype typical of CD10+ follicular lymphoma (see full report). 
+
+Together, the morphology, immunophenotype and concurrent flow cytometry are consistent with Follicular lymphoma, follicular pattern (>75%), WHO grades 1-2. 
+
+DIAGNOSIS 
+1,2. Right axillary lymph node, core biopsies: 
+-Follicular lymphoma WHO grades 1-2; no evidence of high grade transformation. ""
+",0
+102,1,Negative,611,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+SUPPLEMENTARY REPORT 
+SPECIMEN 
+Bronchoalveolar lavage. 
+
+REQUEST DETAILS 
+Febrile neutropenia post AUSCT. 
+Lung infiltrates. 
+Right upper bronchoalveolar lavage. 
+
+MACROSCOPIC DESCRIPTION 
+Specimen labelled with patient details and """"Lavage; (R) upper lobe; 1600; XXXXXXX."""" 
+10ml slightly cloudy colourless fluid. 2 Pap, 2 DQ and 2Grocotts. 
+
+(ED XXXXXXXXXX) 
+
+MICROSCOPIC DESCRIPTION 
+The preparations contain predominantly macrophages with some pigmented forms and with approximately 90% of the cells being macrophages. In the background small numbers of red blood cells can be seen as well as very occasional lymphocytes and neutrophil polymorphs. A rare bronchial epithelial cell is seen. No fungi or pneumocystis are identified on the Grocott's stain. 
+
+OPINION 
+Broncho-alveolar lavage 
+- The specimen contains mainly macrophages and no abnormal cells are identified. No fungi or pneumocystis are identified on the Grocott's stain. (XX/kr) 
+A very rare macrophage contains a small amount of pigment in keeping with haemosiderin on the Perl's stain. ""
+",0
+113,1,Negative,538,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+** URGENT** 
+REQUEST SLIP # 1: ** URGENT** ___ and diagnosis needed to commence treatment. CT-guided BX of L pelvic lymph node. XXXXX M w ?new Dx of high grade lymphoma. Exensive LAD on CT. Too unwell to operate PET (met for hypoxia diagnosed). Circulating blasts ?____.  
+CT-guided BX of left pelvic lymph node. Circulatory blastic ___ ___ ?____. Histopathology, cytology, immunohistochemistry. Flow cytometry. Cytogenetics. Molecular. 
+
+REQUEST SLIP # 2: ** URGENT** Left shin - violaceous nodules/plaques. New DX of systemic lymphoma. ?Primary cutaneous B-cell lymphoma. 2x3mm punch BX. DDX atypical infection. 
+ 
+MACROSCOPIC DESCRIPTION 
+1. """"Specimen labelled only with patient details"""". PLEASE NOTE: Specimen has been received fresh and fragments in fluid have been sent for flow cytometry at 12:21 on XXXXXXX by XX/XX. Two tan cores 8 and 10mm in length. A2. (dl:oze) 
+2. """"Left shin"""". Two punch biopsies 3x3x5mm and 3x3x6mm. A2. (dl:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1. Sections show sheets and closely packed small nests of atypical cells with pale cytoplasm and pleomorphic enlarged nuclei with prominent nucleoli. Mitotic figures are infrequent. No glands, mucin, keratin or pigment are seen. In immunostains the tumour cells express AE1/AE3, PSA, PSAP, cyclin D1, CD10 and BCL6. Ki67 index is about 30%. They are negative for CK7, CK20, CK5/6, CD30, TTF1, PAX8, RCC, CDX2, p40, S100 and multiple haematopoietic markers including CD45, CD20, PAX5, CD3, CD5, TdT, MPO, lysozyme). 
+2. Section shows skin with deep dermis. There are sheets of atypical cells in the superficial and mid dermis with pale cytoplasm and pleomorphic enlarged nuclei with prominent nucleoli. There are frequent apoptotic bodies and occasional mitotic figures. The epidermis is spared. In immunostains they express CD45, CD20, BCL2, BCL6 and MUM1. MYC IHC is equivocal. MYC is not rearranged by FISH. IgM is expressed in some intermixed smaller cells, but the tumour cells appear negative. Ki67 is >90%. EBER CISH (EBV) is negative. CD5, CD3, cyclin D1, CD10 and CD30 are negative. They are negative for cytokeratins (AE1/AE3, CK7 and CK20). 
+
+DIAGNOSI S 
+1. Specimen labelled only with patient details (CT-guided BX of L pelvic lymph node?) 
+- Metastatic prostate adenocarcinoma. No evidence of lymphoma. 
+2. Left shin - large B-cell lymphoma with high Ki67, MYC-negative. DLBCL leg-type or cutaneous involvement by a DLBCL with a non-GCB phenotype are possible. NGS to follow. ""
+",0
+127,1,Negative,957,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Excisional biopsies x2 punch biopsy x1 histology. 1) Right cheek excisional biopsy. 2) Mid back excisional biopsy. 3) Left leg punch biopsy. 
+ 
+MACROSCOPIC DESCRIPTION 
+1. """"Right cheek lesion stitch superior"""". A skin ellipse 19x9x7mm with a superior/12 o'clock suture on one apex. There is a raised well-circumscribed tan lesion 4x3mm and 3mm from the 3 o'clock and 9 o'clock margins. Specimen inked: 3 o'clock blue, 9 o'clock black. On cut surface the lesion is 3mm thick and 4mm from the deep margin. 1.1: 12 o'clock margin, LSx1 and adjacent TSx3. 1.2: 6 o'clock margin, LSx1 and adjacent TSx2. P2. 
+2. """"Middle back upper lesion stitch superior"""". A skin ellipse 29x12x9mm with a superior/12 o'clock suture on one apex. It is a poorly defined tan crusted lesion 15x8mm and 2mm from the 3 o'clock margin. Specimen inked: 3 o'clock blue, 9 o'clock black. 2.1: 12 o'clock margin, LSx1 and adjacent TSx2. 2.2-2.3: Central TSx4. 2.4: 6 o'clock margin, LSx1 and adjacent TSx1. P4. 
+3. """"Punch BX left leg"""". Two skin punch biopsies, both 3x3x4mm. 3.1-3.2: Punch biopsies x2. A2. (jr:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1. The sections show skin and subcutis. There is a poorly differentiated squamous cell carcinoma extending to the reticular dermis, with a thickness of 1.5mm. The lesion is at least 2mm from all radial margins and 3.5mm from the deep margin. No perineural or lymphovascular invasion is identified. On immunohistochemistry the tumour cells show patchy positive staining for EMA and are negative for Ber-EP4. 
+2. The sections show skin and subcutis. There is a superficial basal cell carcinoma, comprising foci demonstrating atypical basaloid cells with peripheral palisading budding from the epidermis. The lesion is 2 from all radial margins and at least 6mm from the deep margin. No perineural invasion is identified. 
+3. The sections from each of the punch biopsies of skin show superficial basal cell carcinoma with nests of atypical basaloid cells with peripheral palisading budding from the undersurface of the epidermis. 
+
+DIAGNOSIS 
+1. Skin from right cheek, excision - Poorly differentiated squamous cell carcinoma, clear of margins. 
+2. Skin from middle back upper lesion, excision - Superficial basal cell carcinoma, clear of margins. 
+3. Skin from left leg, punch biopsies - Superficial basal cell carcinoma. ""
+",0
+131,1,Negative,490,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+?Seb K ?pyogenic granuloma. 
+
+MACROSCOPIC DESCRIPTION 
+Labelled with patient details only. A polypoid tan skin biopsy 7x5x4mm with a focal resection margin 2mm in greatest dimension. Margin inked black. TSx3. A1. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+Sections show fibroepithelial polyp with covering of acanthotic, non-dysplastic epidermis. The surface is keratinised. There is central oedema and minor inflammation, and some changes reflecting surface irritation, with pronounced oedema in papillary dermis, congestion, and some subcorneal exudate. There is no stromal or epithelial atypia and no evidence of malignancy. There is some loose exudate, likely reflecting focal ulceration. 
+
+DIAGNOSIS 
+Excision skin (unknown site) - Traumatised fibroepithelial polyp.""
+",0
+131,2,Negative,843,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+Large lesion L hand dorsum ?SCC. 
+ 
+Please note specimen received without the collector's signed declaration to certify labelling. 
+
+MACROSCOPIC DESCRIPTION 
+One specimen received labelled with only patient details. A punch biopsy 3x3x5mm. A1. (dl:oze) 
+
+MICROSCOPIC DESCRIPTION 
+Sections show markedly sun-damaged skin with deep dermis. There is marked hyperkeratosis and parakeratosis, and a large subcorneal and intraepidermal pustule. There are neutrophils in the superficial epidermis, some squamous hyperplasia, acantholysis, spongiosis, a few dyskeratotic cells and mild partial thickness squamous atypia. The superficial dermis is infiltrated by mixed inflammatory cells, predominantly plasma cells with some lymphocytes, neutrophils are occasional eosinophils. There is no evidence of leucocytoclasis or vascular injury. No mites or viral cytopathic changes are seen. Gram stains shows abundant Gram+ cocci in inflammatory debris in the parakeratin, and some in the pustule. PAS shows no fungi. Immunostains for HSV1/2 are negative. There is no evidence of T-cell lymphoma or other malignancy. 
+
+DIAGNOSIS 
+Skin punch biopsy, unlabelled to sit (presumed dorsum L hand) - Intraepidermal pustule and mild squamous atypia. 
+
+Comment - An acantholytic mildly dysplastic actinic keratosis with secondary pustule development due to infection is favoured, although a primary pustular disorder with reactive squamous atypia cannot be completely excluded. There is no evidence of squamous cell carcinoma in this small biopsy, although if this is the clinical impression then a larger biopsy is recommended. ""
+",0
+140,1,Negative,861,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+REQUEST SLIP #1: Patient with febrile neutropenia, ?lymphoma. Lymph node BX from right external iliac node: Histopathology flow cytometry fresh specimen. 
+
+REQUEST SLIP #2: ?Lymphoma subtype, ?HL, ?TLL (node biopsy) histology + genomics. 
+
+MACROSCOPIC DESCRIPTION 
+1. `External iliac lymph node'. Specimen is received fresh and portions of fresh lymph nodes are submitted for molecular and flow cytometry as per XX by XX on XXXXXX. An excision of fibrofatty soft tissue 85x60x16mm. There are five lymph nodes identified 10-33mm all with portions of tan white smooth fleshy cut surfaces. 1.4: Representative TSx2 from one lymph node (scout block 1.1). 1.5: Representative TSx2 from one lymph node (scout block 1.2). 1.6: Representative TSx2 from one lymph node (scout block 1.3). 1.7: Representative TSx2 one node. 1.8: Representative TSx2 one node. P8. 
+2. `Right abdominal wall muscle'. Specimen received fresh and placed in formalin by XX on XXXXXX. An excision of skeletal muscle 7g and 52x23x11mm. The cut surface and surface are unremarkable; discrete lesions or irregularities are not identified. 2.1-2.3: Representative alternating TSx5. (mk:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1. The lymph nodes are all abnormal. The lymphoid compartment is atrophic. There is an accumulation of histiocytes in paracortex with some sclerosis and minor perinodal fibrosis. Portions of some nodes are relatively sparsely cellular. There are however, preserved atypical single cells, most evident in blocks 1.1 and 1.4. These cells are large with polylobated nuclei and prominent macro nucleoli, and abundant pale or vacuolated cytoplasm. The node in block 1.3 is more cellular, comprising a light mixed population of B- and T-lymphocytes and numerous histiocytes, staining with CD68 and CD163. The T-cells show normal CD2, CD3, CD5 and CD7 expression and mixed CD4 and CD8 subsets. There is no follicular dendritic proliferation. PD-1 stains a relatively sparse population, probably BCL6 positive but CD10 negative. Ki-67 shows low proliferative activity in paracortex (< 5%). There are small numbers of polyclonal plasma cells. In summary, there is no evidence of an atypical, proliferating or aberrant T-cell population to indicate T-cell lymphoma. 
+With regards the atypical single cells, staining was performed on block 1.1. These cells are PAX5, CD30, CD15 and EBER-ISH positive but stain negatively for CD20 and CD3. 
+
+2. Sections show unremarkable voluntary muscle. There is some fresh interstitial haemorrhage but no inflammation or active muscle damage and no evidence of neoplasia. 
+
+DIAGNOSIS 
+1. External iliac lymph nodes - Features consistent with classical Hodgkin's lymphoma. Background lymph node is atrophic (M96633). 
+
+2. Right abdominal wall muscle - No significant abnormality.""
+",0
+141,1,Negative,612,,test,"""URNO     XXXXXXXXX 
+Lab No    1XXXXXXXX        Specimen  BAL 
+
+
+CLINICAL NOTES: 
+AML. BMT - lung infiltrate. 
+
+TESTS REQUESTED: 
+BAL LUL, RML - differential cell count, cytology. 
+
+MACROSCOPIC DESCRIPTION: 
+1. LUL bronchoalveolar lavage: 10 ml of cloudy and cream fluid. 
+
+2. RML bronchoalveolar lavage: 4 ml of clear and colourless fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+1. The smears contain abundant alveolar macrophages, scattered lymphoid cells and occasional bronchial cells. Grocott stain is negative for fungal elements. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT     %   REFERENCE RANGE 
+Alveolar macrophages         90        (83-94%) 
+Lymphocytes               10        (5-16%) 
+Neutrophils                00        (1-6%) 
+Eosinophils                00        (0-1%) 
+
+2. The smears contain scattered bronchial cells and scanty macrophages. There too few cells for a differential cell count. No malignant cells are identified, but the specimen is best regarded as non-diagnostic. Grocott stain is negative for fungal 
+elements. 
+
+DIAGNOSIS: 
+1. LUL bronchoalveolar lavage: Normal cell count; no malignant cells identified. 
+
+2. RML bronchoalveolar lavage: Non diagnostic (pauci-cellular specimen). ""
+",0
+141,2,Negative,282,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  WASHINGS 
+
+
+CLINICAL NOTES: 
+AML pneumonia. 
+
+TESTS REQUESTED: 
+RUL Bronchoalveolar lavage - cytology, cell count + differential. 
+Bronchial washings - Cytology. 
+
+MACROSCOPIC DESCRIPTION: 
+1. Bronchoalveolar lavage: 15 ml of lightly blood stained fluid. 
+
+2. Bronchial washings: 20 ml of lightly blood stained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+1. The smears contain scattered alveolar macrophages, neutrophils, few lymphoid cells and red blood cells. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT   %  REFERENCE RANGE 
+Alveolar macrophages     79%    (83-94%) 
+Lymphocytes        5%    (5-16%) 
+Neutrophils        16%     (1-6%) 
+Eosinophils        0%    (0-1%) 
+Bronchial cells        0%    (0-5%) 
+
+2. The smears contain pulmonary macrophages, bronchial cells, squamous cells and inflammatory cells. No malignant cells are identified. 
+
+DIAGNOSIS: 
+1. Bronchoalveolar lavage: Mild neutrophilia. No evidence of malignancy. 
+
+2 Bronchial washings: No evidence of malignancy. 
+""
+",0
+163,1,Negative,878,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES 
+?Lymphoma fresh flow cytology MCS formalin hist. 
+ 
+MACROSCOPIC DESCRIPTION 
+1. """"Lymph node right groin"""". Specimen received fresh and sampled for Flow Cytometry and Micro on XXXXXXX by XX. A lymph node 16x10x9mm with attached adipose tissue up to 3mm. The cut surface is diffusely tan-grey slightly congested. TSx5. A2. 
+2. """"Lymph node right groin"""". A ragged lymph node 32x13x8mm with attached adipose tissue up to 3mm. The cut surface is tan-grey haemorrhagic. TSx13. A3. (cs:oze) 
+
+MICROSCOPIC DESCRIPTION 
+1&2. Sections of lymph node show effaced architecture and a diffuse infiltrate of plump macrophages and small mature lymphocytes, with interspersed single large atypical cells displaying prominent nucleoli and coarse chromatin, in areas loosely aggregated, and some single apoptotic cells. Eosinophils and plasma cell are infrequent. There is no nodularity. Marginal sinus is largely preserved but internal sinuses are absent. There is partial preservation of lymph node in areas, and minor spill beyond nodal capsule. There are no confluent sheets of large cells although the tumour cells are more numerous in areas (eg block 2.2). Immunoperoxidase staining shows the large atypical cells are CD20/PAX5 positive, negative for T-cell markers, CD30, CD15 and EBER-ISH. The background T-cells are positive for CD2, CD3, CD5 and CD7. Allowing for histiocytic staining, the CD4 to CD8 ratio is approximately 1:1. CD21 shows no FDC proliferation. The large cells are Ki-67 active but there is also moderate activity in the background lymphohistiocytic population. PCR for TCR and IgH has been requested in an attempt to confirm the impression of a minority neoplastic B-cell population. 
+
+DIAGNOSIS 
+1&2: Lymph node excision right groin- features most in keeping with T-cell/histiocyte-rich large B-cell lymphoma. M96883.""
+",0
+166,1,Negative,808,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+
+CLINICAL NOTES: 
+
+CMV.  
+CMV vs GVHD. 
+
+MACROSCOPIC DESCRIPTION: 
+
+1. """"Caecum biopsy"""": Two fragments of tan tissue 2mm. Each all in 1.1. A1.  
+
+2. """"Transverse colon biopsy"""": Three fragments of tan tissue 0.5-2mm. All in 2.1. A1.  
+
+3. """"Sigmoid biopsy: Two fragments of tan tissue 3-5mm. All in 3.1. A1.  
+
+4. """"Rectum biopsy"""": Two fragments of tan tissue 1-2mm. All in 4.1. A1.  
+
+5. """"Random colon in saline (tissue has been sent fresh for Micro and the remaining tissue has been put in formalin)"""": Four fragments of tan tissue ranging from 2-5mm. All in 5.1. A1. (EC) 
+
+MICROSCOPIC DESCRIPTION: 
+
+1. Two strips of colonic mucosa, one with muscularis mucosae. The surface epithelium is intact. Glandular architecture is normal. Intraepithelial and lamina propria inflammatory cells are not increased. Apoptoses are not increased. No viral 
+cytopathic effect is identified. There is no dysplasia. 
+
+2. Three partly fragmented strips of colonic mucosa, one with muscularis mucosae. The surface epithelium is focally denuded. Glandular architecture is normal. Intraepithelial lymphocytes are mildly increased. In one of the biopsies there is an area 
+of acute lamina propria inflammation. No cryptitis, crypt abscesses or granulomas are identified. No viral cytopathic effect is identified. Apoptoses are not increased. There is no dysplasia. 
+
+3. Five partly fragmented strips of colonic mucosa with muscularis mucosae. The surface epithelium is intact. Glandular architectural complexity is mildly increased. In one of the biopsies there is an area of lamina propria acute inflammation. No 
+cryptitis, crypt abscesses or granulomas are identified. No viral cytopathic effect is identified. Apoptoses are not increased. There is no dysplasia. 
+
+4. Two partly fragmented strips of colonic mucosa, one with muscularis mucosae. The surface epithelium is focally denuded. Glandular architectural complexity is mildly increased. Intraepithelial and lamina propria inflammatory cells are not increased. 
+ No cryptitis, crypt abscesses or granulomas are identified. No viral cytopathic effect is identified. Apoptoses are not increased. There is no dysplasia. 
+
+5. Four partly fragmented and degenerate strips of colonic mucosa, one with muscularis mucosae. The glandular architecture is mildly distorted. In one of the biopsies there is a focal increase in lamina propria inflammatory cells including numerous 
+eosinophils. No viral cytopathic effect is identified. Apoptoses are not increased. There is no dysplasia. 
+
+IMMUNOHISTOCHEMISTRY: 
+
+CMV - Negative. Lamina propria plasma cell cytoplasmic staining. 
+
+DIAGNOSIS: 
+
+1. Caecum biopsy: Normal colonic mucosa. 
+
+2. Transverse colon biopsy: Mild focal active colitis. 
+
+3. Sigmoid biopsy: Mild focal active colitis and mild nonspecific architectural distortion. 
+
+4. Rectum biopsy: Mild nonspecific architectural distortion. 
+
+5. Random colon: Focal mild increase in lamina propria inflammatory cells. ""
+",0
+174,1,Negative,667,,test,"""URNO         XXXXXXXXX  Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+Pleural biopsy XXXXX female. 
+Hx Hodgkin's lymphoma. Pleural thickening. 
+?Infection.  
+?Pleural lymphoma.  
+(Fresh tissue and formalin samples please).  
+XX F (illegible) SCT for Hodgkin lymphoma in XXXX. Hx of gut and skin GVHD. 
+P/w R) sided pleural pain with pleural thickening on CT. 
+Bx of pleura. ?Infection/lymphoma.  
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Unlabelled as to site"""": Fine fragments of pink and white tissue, 5x7x1mm in aggregate. All embedded in block 1.1. A1.  (SR) 
+
+MICROSCOPIC DESCRIPTION: 
+
+The sections show fragments of oedematous fibrous tissue with scattered mononuclear chronic inflammatory cells and neutrophils, and separate fragments of acute inflammatory exudate with fibrin, necrotic material and abundant neutrophils. Occasional 
+multinucleate histiocytic cells are identified. There are no Hodgkin cells identified. Gram positive rods are present on Gram stain. There are no pathogenic organisms identified on PAS, groccott, and ZN stains. No evidence of Hodgkin lymphoma on 
+immunohistochemistry for CD30, MUM1 and PAX5. 
+
+DIAGNOSIS: 
+
+Pleural biopsy: Suppurative acute inflammation, Gram positive rods present. No evidence of lymphoma. ""
+",0
+174,2,Negative,335,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+XXF. hx of Hodgkin lymphoma 
+in hospital for pulmonary nocardiosis + CMV viraemia 
+?rash on abdomen/chest 
+Secondary to drug allergy 
+Histopathology - right lower abdomen 3mm punch biopsy 
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Right lower abdomen punch biopsy"""": A 3x 4mm fragment. All embedded in block 1.1. A1. (SR) 
+
+MICROSCOPIC DESCRIPTION: 
+Examined at multiple levels. The sections show a fragment of unremarkable mature adipose tissue consistent with subcutis. There is no dermis or epidermis included. 
+
+
+DIAGNOSIS: 
+Right lower abdomen punch biopsy: Non-diagnostic. No dermis or epidermis in the specimen. ""
+",0
+174,3,Negative,761,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+- 1 year post allograft 
+- Gut GVHD/skin GVHD 
+- Recent - nocardia on Ceftriaxone + Linezolid -> worsening skin rash.  
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Unlabelled as to site"""": Fragments of tissue. One is a punch biopsy including epidermis. The fragments range in size between 3mm and 2mm. 1.1 x3. All in. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+
+A skin punch biopsy to subcutis. The epidermis shows mild acanthosis with overlying parakeratosis. There is scattered apoptotic keratinocytes at different levels. There is mild basal vacuolar change with minimal lymphocyte exocytosis. Similar changes 
+are also noted in a hair follicle including an apoptotic keratinocyte. The excisional dermis contains a mild perivascular infiltrate of mononuclear chronic inflammatory cells with some pigment incontinence. There are no fungi identified on PAS stain.  
+There are no eosinophils identified.  
+
+DIAGNOSIS: 
+
+Skin punch biopsy: Lichenoid reaction favouring graft versus host disease.""
+",0
+174,4,Negative,967,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+extensive pneumatosis coli from caecum to descending colon 
+PMH: lymphoma, BMT, graft vs host disease 
+extended right hemicolectomy 
+?colitis 
+?CMV 
+?perforation 
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Extended right hemicolectomy"""": One segment of small bowel (normal appearing), and a right hemicolectomy including appendix and terminal ileum. The separate small bowel is 30mm in length with a diameter of 25mm and staple lines 20mm and 30mm, with 
+bowel wall thickness 2-3mm and normal appearing mucosa. The hemicolectomy features small bowel 520mm in length with a diameter of 40-50mm, with extensive subserosal emphysema, with bowel wall thickness 2-3mm throughout and mucosa which is patchy and red 
+throughout the length, with prominent mucosal folds without polyps, masses or ulcers. The mesocolon is up to 40mm long. The appendix is 60mm long and up to 5mm wide with mesoappendix up to 20mm. The terminal ileum is 20mm long and 20mm wide with 
+normal appearing mucosa.  
+
+BLOCK DESIGNATION: 
+1.1-1.10 - representative sections of bowel wall from distal to proximal. 
+1.11 - appendix. 
+1.12 - small bowel margin with nick toward margin. 
+1.13&1.14 - fat and a bisected lymph node. 
+1.15 - separate small bowel and section through fat. P15. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+
+The sections show extensive pneumatosis coli with air spaces present in submucosa and subserosa. The serosa features a mild reactive fibrotic change. A foreign body giant cell reaction to air is present. The crypts show scattered apoptoses and some 
+luminal necrotic debris. There are no pseudomembranes. There are no granulomata. There is no vasculitis, vessel thrombi or emboli. There is no evidence of malignancy. 
+
+DIAGNOSIS: 
+
+Extended right hemicolectomy: Pneumatosis coli and mild graft versus host disease. There is no evidence of ishchaemia or severe colitis. 
+
+Comment: The cause of the pneumatosis is unclear. Additional stains for organisms including CMV immunohistochemistry are pending.""
+",0
+174,5,Negative,107,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+XXF post allograft for Hodgkin's lymphoma 
+Has GI + skin GVHD. 
+New maculopapular rash FI. 
+?GVHD ?fungal ?infection 
+
+MACROSCOPIC DESCRIPTION: 
+""""Chest rash skin biopsy"""": A single irregular piece of unorientated skin, 3x3mm and up to 3mm deep with pale skin without focal pigmentation, papule or ulceration. 1A1. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+The biopsy of skin including subcutaneous fat shows epidermis with hyperkeratosis, parakeratosis, mild acanthosis and mild spongiosis. The basal keratinocytes are reactive and basophilic, with increased mitotic activity. There is mild lymphocyte 
+exocytosis with a focal interface reaction and there are scattered apoptotic and dyskeratotic keratinocytes. The superficial dermis is oedematous and there is endothelial swelling, capillary ectasia and a scant perivascular infiltrate of lymphocytes and 
+histiocytes. Scattered melanophages are present. There is no significant fibrosis. No organisms are seen on the PAS stain. 
+
+DIAGNOSIS: 
+Chest rash of skin punch biopsy: 
+
+Interface reaction pattern with features of mixed acute and chronic Graft-Versus-Host Disease (Grade II, moderate severity). ""
+",0
+174,6,Negative,172,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+?Acute graft versus host disease.  
+
+MACROSCOPIC DESCRIPTION: 
+
+1. """"Gastric biopsy"""": Four pieces of tissue 1-3mm. 4A1.  
+
+2. """"Duodenum Bx"""": Six pieces of tissue 1-3mm. 6A1.  
+
+3. """"Ileum Bx"""": Three pieces of tissue 3-4mm. 3A1. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+1. There are fragments of gastric mucosa including muscularis mucosa. The architecture is generally preserved. There is mild chronic inflammation characterised by increased number of chronic inflammatory cells within the lamina propria including plasma 
+cells and rare eosinophils. There is extension of thin smooth muscle fibres into superficial lamina propria. No acute inflammation, ulceration of granuloma formation is seen. No dysplasia present. 
+Definitive features of acute graft-versus-host-disease are not established. 
+Immunohistochemistry for H Pylori and CMV are negative. 
+
+2. and 3. Sections show fragments of small intestinal mucosa including muscularis mucosa. The villous architecture is generally preserved. No intra-epithelial lymphocytosis is present. 
+There are scattered apoptotic debris within the lamina propria and occasionally within the intestinal crypts. Limited foci of """"exploding cells"""" are noted, more prominent in the ileal biopsy. No crypt abscess formation is noted. 
+No Significant acute inflammation is seen and no granuloma formation is identified. No dysplasia present. 
+Immunohistochemistry for CMV shows rare cells with nuclear staining. 
+
+Comment: 
+The appearances in the duodenal and the ileal biopsies are consistent with grade 1, acute graft-versus-host-disease in the right clinical settings. However, similar changes can be seen due to CMV infection and/or drug induced. Clinical correlation is 
+required. 
+
+
+DIAGNOSIS: 
+
+1. Gastric biopsy: 
+- Mild chronic inflammation and reactive gastropathy change. 
+- Immunohistochemistry for H Pylori and CMV negative.  
+
+2. and 3. Duodenum and ileum biopsies: 
+- Features in keeping with the clinical impression of acute graft-versus-host-disease, grade 1. 
+- Immunohistochemistry for CMV positive. 
+- Please see comment. ""
+",0
+175,1,Negative,746,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+
+CLINICAL NOTES: 
+
+3 Months post bone marrow transplant 
+Bilateral infiltrates 
+? Infection vs Graft vs Host 
+
+MACROSCOPIC DESCRIPTION: 
+
+RML Bronchoalveolar lavage: 15ml of cloudy and slightly blood stained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+
+The smears contain abundant alveolar macrophages, scant lymphoid cells and few neutrophils. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT  % REFERENCE RANGE 
+Alveolar macrophages   93  (83-94%) 
+Lymphocytes            5   (5-16%) 
+Neutrophils             1   (1-6%) 
+Eosinophils                  (0-1%) 
+Bronchial cells               (0-5%) 
+
+DIAGNOSIS: 
+
+RML Bronchioalveolar lavage: Normal cell count. ""
+",0
+176,1,Negative,160,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BRONCHIAL WASHING 
+
+
+CLINICAL NOTES: 
+Bronchial washing. 
+Patient radiologically has L)UL pneumonia. However on bronchoscopy had more haemoptysis/blood R)LL. 
+
+MACROSCOPIC DESCRIPTION: 
+Bronchial washings: 2 ml lightly bloodstained, mucoid fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+The smears contain small numbers of pulmonary macrophages, bronchial cells, squamous cells and inflammatory cells. No malignant cells are identified. 
+
+DIAGNOSIS: 
+Bronchial washings: No evidence of malignancy. 
+""
+",0
+176,2,Negative,884,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+CLINICAL NOTES: 
+BAL 
+LUL pneumonia TIRF 
+Allograft on large doses IS. CMV reactivation. 
+
+MACROSCOPIC DESCRIPTION: 
+1. RUL bronchoalveolar lavage: 3ml of heavily blood stained mucoid fluid. 
+
+2. LUL bronchoalveolar lavage: 2ml of moderately blood stained mucoid fluid. 
+
+3. LLL bronchoalveolar lavage: 2ml of lightly blood stained fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+1. The smears contain alveolar macrophages, scattered neutrophils and a few lymphoid cells. No viral inclusions are seen. Grocott stain is negative for fungal elements. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          33       (83-94%) 
+Lymphocytes                7        (5-16%) 
+Neutrophils                 60        (1-6%) 
+Eosinophils                 0        (0-1%) 
+Bronchial cells                0        (0.5%) 
+
+2. The smears contain alveolar macrophages, scattered neutrophils and a few lymphoid cells. No viral inclusions are seen. Grocott stain is negative for fungal elements. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          56       (83-94%) 
+Lymphocytes                2        (5-16%) 
+Neutrophils                 42        (1-6%) 
+Eosinophils                  0        (0-1%) 
+Bronchial cells                0        (0.5%) 
+
+3. The smears contain alveolar macrophages, scattered neutrophils and a few lymphoid cells. No viral inclusions are seen. Grocott stain is negative for fungal elements. No malignant cells are identified. 
+
+DIFFERENTIAL CELL COUNT      %   REFERENCE RANGE 
+Alveolar macrophages          41       (83-94%) 
+Lymphocytes                2        (5-16%) 
+Neutrophils                 57        (1-6%) 
+Eosinophils                  0        (0-1%) 
+Bronchial cells                0        (0.5%) 
+
+DIAGNOSIS: 
+1. RUL bronchoalveolar lavage: Neutrophilia. 
+
+2. LUL bronchoalveolar lavage: Neutrophilia. 
+
+3. LLL bronchoalveolar lavage: Neutrophilia. ""
+",0
+176,3,Negative,169,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  CEREBROSPINAL FLUID 
+
+
+CLINICAL NOTES: 
+No clinical notes. 
+
+MACROSCOPIC DESCRIPTION: 
+1. Cerebrospinal fluid: 2ml slightly cloudy colourless fluid. 
+
+2. Cerebrospinal fluid: 1.5ml slightly cloudy colourless fluid. 
+
+MICROSCOPIC DESCRIPTION: 
+1&2. The smears contain abundant degenerate lymphoid cells. 
+
+DIAGNOSIS: 
+1&2. Cerebrospinal fluid: Inconclusive - abundant degenerate lymphoid cells are present, however, marked cellular degeneration hinders diagnosis. ""
+",0
+188,1,Negative,462,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+New diagnosis AML. 
+Cervical lymphadenopathy. 
+?malignant ?infection.  
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Left neck lymph node"""": Tan fragments 0.5-3mm. All in 1.1. A1. (EC) 
+
+MICROSCOPIC DESCRIPTION: 
+Sections contain fibrous tissue, skeletal muscle, adipose tissue and sheets of cells with blastic nuclei and small amounts of eosinophilic cytoplasm. Some of these cells have eosinophilic granular material visible within the cytoplasm. The nuclei of 
+these cells are medium sized, irregular ovoid without irregular outline, containing evenly distributed chromatin without nucleoli. 
+
+By immunohistochemistry most of the cells are positive for myeloperoxidase. Background B and T cells are highlighted by CD20, CD79a, CD3 and CD5. The cells are negative for cyclin D1. 
+
+DIAGNOSIS: 
+Left neck lymph node: Myeloid sarcoma (extramedullary acute myeloid leukaemia). ""
+",0
+203,1,Negative,745,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+
+CLINICAL NOTES: 
+
+GVHD vs CMV.  
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Rectal Bx"""": Three tan pieces of tissue 1-3mm. A1. (XX) 
+
+MICROSCOPIC DESCRIPTION: 
+
+Fragments of acutely inflamed granulation tissue. No viable mucosa identified. No viral cytopathic effect identified. CMV immunohistochemistry is negative.  
+
+DIAGNOSIS: 
+
+Rectal biopsy: Acutely inflamed granulation tissue. ""
+",0
+210,1,Negative,653,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  TISSUE 
+
+CLINICAL NOTES: 
+
+Aplastic anaemia 
+Tamponade. 
+Histology of pericardium 
+
+MACROSCOPIC DESCRIPTION: 
+
+""""Unlabelled as to site"""": Two soft white irregularly-shaped pieces of tissue 7mm each. 2A1. (SRT) 
+
+MICROSCOPIC DESCRIPTION: 
+
+The sections show relatively hyalinised fibrous tissue with a partial covering of mesothelial cells. There is patchy minimal mononuclear chronic inflammatory cell infiltrates. There is no active inflammation. There is no evidence of malignancy.  
+
+DIAGNOSIS: 
+
+Pericardium: Minor nonspecific changes. 
+
+
+
+REPORTED BY: DR XXXXXXXXXX (XXXXXXXX) ""
+",0
+219,1,Negative,392,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  CEREBROSPINAL FLUID 
+
+
+SPECIMEN 
+CSF Cytology 
+
+REQUEST DETAILS 
+CSF Hx of HIV (New diagnosis) new Dx Burkitt Lymphoma 
+
+MACROSCOPIC DESCRIPTION 
+Labelled with patient details and `XXXX"""" 
+Specimen not labelled as to site/type 
+1 ml of clear colourless fluid. 2 Giemsa prepared. 
+(NOC XXXXXXXXXXX) 
+
+MICROSCOPIC DESCRIPTION 
+The slides scattered degenerate bare nuclei and anucleate squames. No intact atypical cells are seen. 
+
+OPINION 
+CSF - Inadequate for reporting due to significant cellular degeneration. Please see flow cytometry report. 
+
+
+Reported by: Dr XXXXXXXXXX with Dr XXXXXXXXX, XXXXXXXXXXXXXXXXXXXXXXXXXXXXX, validated XXXXXXXXXXXXXXXX ""
+",0
+219,2,Negative,729,,test,"""URNO     XXXXXXXXX 
+Lab No    XXXXXXXXX        Specimen  BAL 
+
+SPECIMEN 
+Bronchial Specimens 
+1. BAL - Lingular 
+2. Bronchial Washings 
+
+REQUEST DETAILS 
+Lung lesion ? Cancer ? mucous plugging 
+HIV +ve Kaposi 
+
+MACROSCOPIC DESCRIPTION 
+1. Specimen labelled with patient details and """"Lingular BAL Lavage XXXXXXXXXX, 08:42"""". 15ml of a clear and colourless fluid. 2 Pap and 2 DQ 
+2. Specimen labelled with patient details and """"Bronchial Washings XXXXXXXXXX, 08:44"""" Specimen shared with Microbiology, VIDRL and Other. 15ml of a clear mucoid fluid. 4 Pap. (XX XXXXXXXXXXX) 
+
+MICROSCOPIC DESCRIPTION 
+1. The slides are compromised as many cells have not survived processing and are markedly degenerate. Remaining intact cells are macrophages, squames and some neutrophils. The preparation is not adequate to identify eosinophils. There are too few intact cells for an accurate cell count. 
+2. The slides show metaplastic squames, mucus and neutrophils, with rare bronchial cells and macrophages. Eosinophils are not seen. GMS shows no fungi or Pneumocystis. No viral inclusions are seen. No malignant cells are identified. 
+
+OPINION 
+1. BAL, Lingular - acute inflammation, specimen not suitable for cell count or for identification of eosinophils. 
+2. Bronchial washings - mixed reactive changes, no organisms identified; negative for malignancy. ""
+			
+",0
