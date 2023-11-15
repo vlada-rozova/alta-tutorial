@@ -3,6 +3,7 @@ import pandas as pd
 import re
 
 
+
 def get_feature_names(feature_set, tags=None):
     """
     Return the list of concepts, relations, or composite concepts.
@@ -23,22 +24,6 @@ def get_feature_names(feature_set, tags=None):
         return [tag + ft for ft in feature_names for tag in ["B-", "I-", "E-", "S-"]]
     else:
         return feature_names
-
-
-def precision(x):
-    try:
-        return x.tp.sum() / (x.tp.sum()+x.fp.sum())
-    except:
-        return np.nan
-
-def recall(x):
-    try:
-        return x.tp.sum() / (x.tp.sum()+x.fn.sum())
-    except:
-        return np.nan
-        
-def fscore(p, r):
-    return 2 * (p * r) / (p + r)
 
 
 
