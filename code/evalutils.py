@@ -3,30 +3,6 @@ import pandas as pd
 import re
 
 
-
-def get_feature_names(feature_set, tags=None):
-    """
-    Return the list of concepts, relations, or composite concepts.
-    """
-    if feature_set=='concepts':
-        feature_names = ['ClinicalQuery', 'FungalDescriptor', 'Fungus', 'Invasiveness', 'Stain', 'SampleType', 
-                'positive', 'equivocal', 'negative']
-    elif feature_set=='relations':
-        feature_names = ['positive-rel', 'equivocal-rel', 'negative-rel', 
-                'fungal-description-rel', 'invasiveness-rel', 'fungus-stain-rel']
-    elif feature_set=='composite':
-        feature_names = ['affirmedFungalDescriptor', 'affirmedFungus', 'affirmedInvasiveness', 'affirmedStain',
-                'negatedFungalDescriptor', 'negatedFungus', 'negatedInvasiveness', 'negatedStain']
-    elif feature_set=='termsets':
-        feature_names = ['preceding_positive', 'following_positive', 'preceding_negative', 'following_negative']
-    
-    if tags:
-        return [tag + ft for ft in feature_names for tag in ["B-", "I-", "E-", "S-"]]
-    else:
-        return feature_names
-
-
-
 def precision(x):
     try:
         return x.tp.sum() / (x.tp.sum()+x.fp.sum())
