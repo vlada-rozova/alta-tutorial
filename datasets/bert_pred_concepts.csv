@@ -1,0 +1,192 @@
+histopathology_id,patient_id,report_no,concept_id,concept,phrase,start_char,end_char,preceding,following
+214,2,1,T0,FungalDescriptor,Fungal elements,1374,1389,,
+214,2,1,T1,positive,identified,1394,1404,False,False
+214,2,1,T2,Stain,Grocott,1412,1419,,
+214,2,1,T3,FungalDescriptor,Fungal elements,1593,1608,,
+127,23,1,T0,Stain,Grocott,345,352,,
+127,23,1,T1,Stain,Grocott,433,440,,
+127,23,1,T2,negative,No,989,991,False,False
+127,23,1,T3,FungalDescriptor,fungus,992,998,,
+127,23,1,T4,Fungus,Pneumocystis,1002,1014,,
+127,23,1,T5,Stain,Grocott,1046,1053,,
+127,23,1,T6,Stain,Grocott,1271,1278,,
+127,23,1,T7,positive,shows,1298,1303,False,False
+127,23,1,T8,FungalDescriptor,branching hyphae,1320,1336,,
+127,23,1,T9,positive,suggesting,1337,1347,False,False
+127,23,1,T10,Fungus,Aspergillus,1351,1362,,
+127,23,1,T11,negative,No,1601,1603,False,False
+127,23,1,T12,FungalDescriptor,fungus,1647,1653,,
+127,23,1,T13,Fungus,Pneumocystis,1657,1669,,
+127,23,1,T14,FungalDescriptor,fungal material,1846,1861,,
+127,23,1,T15,positive,suggesting,1863,1873,False,False
+127,23,1,T16,Fungus,Aspergillus,1874,1885,,
+833,25,1,T0,FungalDescriptor,fungal elements,367,382,,
+833,25,1,T1,FungalDescriptor,"branching,",388,398,,
+833,25,1,T2,FungalDescriptor,budding yeasts,428,442,,
+833,25,1,T3,positive,identified,447,457,False,False
+833,25,1,T4,FungalDescriptor,Fungal elements,556,571,,
+833,25,1,T5,positive,identified,572,582,False,False
+194,38,1,T0,FungalDescriptor,Fungal hyphae,356,369,,
+194,38,1,T1,positive,found,374,379,False,False
+194,38,1,T2,positive,consistent with,403,418,False,False
+194,38,1,T3,Fungus,aspergillus,420,431,,
+194,38,1,T4,positive,present,472,479,False,False
+194,38,1,T5,positive,containing elements,485,512,False,False
+194,38,1,T6,FungalDescriptor,fungal elements,497,512,,
+194,38,1,T7,Stain,Grocott,657,664,,
+194,38,1,T8,positive,highlights,671,681,False,False
+194,38,1,T9,FungalDescriptor,fungi,686,691,,
+194,38,1,T10,Stain,Giemsa,707,713,,
+194,38,1,T11,negative,no,726,728,False,False
+194,38,1,T12,Fungus,toxoplasma,742,752,,
+194,38,1,T13,ClinicalQuery,Fungal,883,884,,
+649,48,1,T0,positive,containing,498,508,False,False
+649,48,1,T1,FungalDescriptor,fungal organisms,519,535,,
+649,48,1,T2,FungalDescriptor,fungi,542,547,,
+649,48,1,T3,FungalDescriptor,branching septae,552,568,,
+649,48,1,T4,positive,consistent,577,587,False,False
+649,48,1,T5,Fungus,with,594,605,,
+649,48,1,T6,Fungus,Aspergillus,865,876,,
+267,80,1,T0,Stain,Grocott,385,392,,
+267,80,1,T1,positive,demonstrates,399,411,False,False
+267,80,1,T2,FungalDescriptor,fungal spores,417,430,,
+573,80,2,T0,negative,no evidence,348,359,False,False
+573,80,2,T1,Fungus,Pneumocystis jiroveci,363,384,,
+573,80,2,T2,FungalDescriptor,fungal elements,388,403,,
+643,149,1,T0,ClinicalQuery,fungal sinusitis,208,224,,
+643,149,1,T1,FungalDescriptor,fungal ball,389,400,,
+643,149,1,T2,FungalDescriptor,thick walled,437,449,,
+643,149,1,T3,negative,not,488,491,False,False
+643,149,1,T4,Invasiveness,angioinvasion,504,517,,
+643,149,1,T5,FungalDescriptor,fungi,521,526,,
+643,149,1,T6,negative,not seen,530,538,False,False
+643,149,1,T7,ClinicalQuery,Mycetoma,613,621,,
+643,149,1,T8,FungalDescriptor,fungi,771,776,,
+643,149,1,T9,positive,in keeping,887,897,False,False
+643,149,1,T10,Fungus,Aspergillus,903,914,,
+100,149,2,T0,SampleType,bowel,370,375,,
+269,160,1,T0,ClinicalQuery,rhizopus,81,89,,
+269,160,1,T1,SampleType,lymph node,1728,1738,,
+269,160,1,T2,SampleType,lymph node,1856,1866,,
+269,160,1,T3,SampleType,lymph node,1941,1951,,
+269,160,1,T4,Invasiveness,infiltrated,2430,2433,,
+269,160,1,T5,FungalDescriptor,non-,2446,2452,,
+269,160,1,T6,FungalDescriptor,right angle,2468,2479,,
+269,160,1,T7,positive,consistent with,2492,2502,False,False
+269,160,1,T8,Fungus,murcomycosis,2503,2513,,
+269,160,1,T9,Fungus,mucormycosis,3080,3092,,
+867,160,2,T0,SampleType,skin,358,362,,
+867,160,2,T1,negative,No organisms,633,652,False,False
+867,160,2,T2,FungalDescriptor,fungal organisms,636,652,,
+867,160,2,T3,Stain,PAS,665,668,,
+532,16,1,T0,SampleType,mucosa,428,434,,
+532,16,1,T1,negative,No,716,718,False,False
+532,16,1,T2,FungalDescriptor,fungi,719,724,,
+532,16,1,T3,Stain,Grocott,912,919,,
+532,16,1,T4,positive,shows yeasts,926,945,False,False
+532,16,1,T5,FungalDescriptor,fungal yeasts,932,945,,
+532,16,1,T6,FungalDescriptor,fungi,1872,1877,,
+532,16,1,T7,positive,identified,1878,1888,False,False
+352,107,1,T0,Stain,Grocott,572,579,,
+352,107,1,T1,positive,shows,586,591,False,False
+352,107,1,T2,FungalDescriptor,fungal spores,598,611,,
+352,107,1,T3,Stain,Grocott,849,856,,
+352,107,1,T4,negative,negative,866,874,False,False
+352,107,1,T5,FungalDescriptor,fungal elements,879,894,,
+352,107,1,T6,FungalDescriptor,Fungal spores,1325,1338,,
+352,107,1,T7,positive,identified,1368,1378,False,False
+350,6,1,T0,SampleType,LN,413,415,,
+765,26,1,T0,negative,no evidence,323,334,False,False
+765,26,1,T1,Fungus,Pneumocystis jiroveci,338,359,,
+765,26,1,T2,FungalDescriptor,fungal elements,363,378,,
+765,26,1,T3,Stain,Grocott,415,422,,
+765,26,1,T4,negative,negative,432,440,False,False
+818,26,2,T0,negative,Neither jiroveci,407,436,False,False
+818,26,2,T1,Fungus,Pneumocystis jiroveci,415,436,,
+818,26,2,T2,FungalDescriptor,fungal elements,441,456,,
+818,26,2,T3,Stain,Grocott,481,488,,
+171,57,1,T0,ClinicalQuery,?,148,149,,
+171,57,1,T1,Stain,Grocott,305,312,,
+171,57,1,T2,Stain,Grocott,407,414,,
+171,57,1,T3,Stain,Grocott,498,505,,
+171,57,1,T4,Stain,Grocott,589,596,,
+171,57,1,T5,FungalDescriptor,Fungi,904,909,,
+171,57,1,T6,Fungus,Pneumocystis,910,922,,
+171,57,1,T7,negative,not seen,927,935,False,False
+171,57,1,T8,Stain,GMS,939,942,,
+171,57,1,T9,FungalDescriptor,Fungi,1281,1286,,
+171,57,1,T10,Fungus,Pneumocystis,1287,1299,,
+171,57,1,T11,negative,not seen,1304,1312,False,False
+171,57,1,T12,Stain,GMS,1316,1319,,
+777,59,1,T0,SampleType,skin,373,377,,
+181,63,1,T0,SampleType,lymph node,173,183,,
+723,77,1,T0,SampleType,skin,2196,2200,,
+755,82,1,T0,SampleType,lung,247,251,,
+755,82,1,T1,SampleType,lung,510,514,,
+755,82,1,T2,Stain,PAS,675,678,,
+755,82,1,T3,Stain,Grocott,680,687,,
+755,82,1,T4,negative,no organisms,718,737,False,False
+755,82,1,T5,FungalDescriptor,fungal organisms,721,737,,
+316,96,1,T0,SampleType,bone,143,147,,
+680,97,1,T0,SampleType,node,510,514,,
+835,98,1,T0,SampleType,LN,221,223,,
+611,102,1,T0,negative,No,759,761,False,False
+611,102,1,T1,FungalDescriptor,fungi,762,767,,
+611,102,1,T2,Fungus,pneumocystis,771,783,,
+611,102,1,T3,Stain,Grocott,806,813,,
+611,102,1,T4,negative,No,940,942,False,False
+611,102,1,T5,FungalDescriptor,fungi,943,948,,
+611,102,1,T6,Fungus,pneumocystis,952,964,,
+611,102,1,T7,Stain,Grocott,987,994,,
+957,127,1,T0,SampleType,skin,297,301,,
+957,127,1,T1,SampleType,skin,739,743,,
+490,131,1,T0,SampleType,skin,189,193,,
+843,131,2,T0,SampleType,skin,398,402,,
+843,131,2,T1,negative,No,913,915,False,False
+843,131,2,T2,Stain,PAS,1067,1070,,
+843,131,2,T3,negative,no,1077,1079,False,False
+843,131,2,T4,FungalDescriptor,fungi,1080,1085,,
+861,140,1,T0,SampleType,lymph node,367,377,,
+612,141,1,T0,Stain,Grocott,479,486,,
+612,141,1,T1,negative,negative,496,504,False,False
+612,141,1,T2,FungalDescriptor,fungal elements,509,524,,
+878,163,1,T0,SampleType,Lymph node,165,175,,
+808,166,1,T0,SampleType,colon,231,236,,
+808,166,1,T1,SampleType,colon,468,473,,
+667,174,1,T0,negative,no organisms,994,1017,False,False
+667,174,1,T1,FungalDescriptor,pathogenic organisms,997,1017,,
+667,174,1,T2,Stain,PAS,1032,1035,,
+667,174,1,T3,Stain,groccott,1037,1045,,
+761,174,3,T0,ClinicalQuery,nocardia,144,152,,
+761,174,3,T1,SampleType,skin,426,430,,
+761,174,3,T2,negative,no,893,895,False,False
+761,174,3,T3,FungalDescriptor,fungi,896,901,,
+761,174,3,T4,Stain,PAS,916,919,,
+107,174,5,T0,ClinicalQuery,fungal,184,190,,
+107,174,5,T1,SampleType,skin,243,247,,
+107,174,5,T2,SampleType,skin,299,303,,
+107,174,5,T3,SampleType,skin,340,344,,
+107,174,5,T4,SampleType,skin,447,451,,
+107,174,5,T5,negative,No,1018,1020,False,False
+107,174,5,T6,FungalDescriptor,organisms,1021,1030,,
+107,174,5,T7,Stain,PAS,1047,1050,,
+172,174,6,T0,SampleType,Gastric,155,162,,
+172,174,6,T1,SampleType,Duodenum,215,223,,
+172,174,6,T2,SampleType,Ileum,271,276,,
+884,176,2,T0,Stain,Grocott,553,560,,
+884,176,2,T1,negative,negative,570,578,False,False
+884,176,2,T2,FungalDescriptor,fungal elements,583,598,,
+884,176,2,T3,Stain,Grocott,1043,1050,,
+884,176,2,T4,negative,negative,1060,1068,False,False
+884,176,2,T5,FungalDescriptor,fungal elements,1073,1088,,
+884,176,2,T6,Stain,Grocott,1534,1541,,
+884,176,2,T7,negative,negative,1551,1559,False,False
+884,176,2,T8,FungalDescriptor,fungal elements,1564,1579,,
+462,188,1,T0,SampleType,lymph node,198,208,,
+745,203,1,T0,SampleType,Rectal,131,137,,
+653,210,1,T0,SampleType,pericardium,128,139,,
+729,219,2,T0,ClinicalQuery,?,167,168,,
+729,219,2,T1,Stain,GMS,1021,1024,,
+729,219,2,T2,negative,no,1031,1033,False,False
+729,219,2,T3,FungalDescriptor,fungi,1034,1039,,
+729,219,2,T4,Fungus,Pneumocystis,1043,1055,,
