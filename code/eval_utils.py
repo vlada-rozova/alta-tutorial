@@ -97,9 +97,7 @@ def evaluate_ner(ids, true_concepts, detected_concepts, feature_names):
         
     # Recall
     print(counts.groupby('concept').apply(recall).round(2))
-    
-    return counts
-    
+        
 
 def evaluate_ner_cv(df, true_concepts, detected_concepts, feature_names):
     """
@@ -117,4 +115,3 @@ def evaluate_ner_cv(df, true_concepts, detected_concepts, feature_names):
     # Recall
     print(counts.groupby(['concept', 'val_fold']).apply(recall).groupby('concept').agg(['mean', 'std']).round(2))
     
-    return counts
